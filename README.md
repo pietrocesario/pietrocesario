@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3638F7&width=435&lines=Ol%C3%A1%2C+sou+Pietro+Ces%C3%A1rio;Estudante+Back-end+Java)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=CFE8FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Java;Be+welcome!" alt="Typing SVG"/>
 
 </div>
 
